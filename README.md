@@ -18,3 +18,4 @@ I am a 2nd year IT Student, developer, and self-taught digital artist. I focus o
 
 ### 📫 Connect
 * **GitHub:** [My GitHub Link](https://github.com/mmadladd/)
+* **Email:** kevinnguyenarts@gmail.com
