@@ -3,9 +3,9 @@
 I am a 2nd year IT Student, developer, and self-taught digital artist. I focus on software development, open-source projects, and character illustration.
 
 ### 🛠️ Tech & Tools
-* **Programming:** C#, Python, C++
+* **Programming:** C#, Python
 * **Development Tools:** Visual Studio, Git, GitHub
-* **Digital Art:** Clip Studio Paint, XP-Pen
+* **Digital Art:** Clip Studio Paint
 
 ### 🔭 Current Projects
 * Building software tools and custom game input configurations on GitHub.
